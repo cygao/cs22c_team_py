@@ -1,6 +1,7 @@
-# CIS-22C 
+# CIS-22C, Summer 2019
+# Instructor: Kamren Eftekhari
 # Project 1
-# Michael Fan
+# Team Python: Michael Fan, Cameron Gao, Afshar Kiana, Zixi Luo
 
 import collections
 
