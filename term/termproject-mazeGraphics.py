@@ -1,7 +1,8 @@
-# CIS 22C
+# De Anza College, CIS 22C, Summer 2019
+# Instructor: Kamren Eftekhari
 # Term Project: Maze
-# Python Group
-# August 5, 2019
+# Team Python: Michael Fan, Cameron Gao, Afshar Kiana, Zixi Luo
+# Detail: This file will provide graphical representation of the maze, as per extra credit
 
 from stack import Stack
 from queue import Queue
