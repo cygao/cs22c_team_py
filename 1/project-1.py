@@ -1,7 +1,8 @@
-# CIS-22C, Summer 2019
+# De Anza College, CIS 22C, Summer 2019
 # Instructor: Kamren Eftekhari
-# Project 1
+# Project 1: Apartment list
 # Team Python: Michael Fan, Cameron Gao, Afshar Kiana, Zixi Luo
+# Detail: This file will create linkedlists from given student and apartmnet files, and attempt to match them according to requirements
 
 import collections
 
